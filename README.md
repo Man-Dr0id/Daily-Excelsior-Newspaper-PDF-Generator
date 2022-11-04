@@ -16,7 +16,9 @@ Modules Used Include :
 ```
 
 Initial GUI of the application
+
 ![image](https://user-images.githubusercontent.com/52342927/199975345-e8aa7fd4-9152-4da7-9652-935333f8d908.png)
 
 Final GUI after Processing is Done and it opens the PDF automatically.
+
 ![image](https://user-images.githubusercontent.com/52342927/199975416-ccfde68a-5a01-45a4-93ee-61d0000501bf.png)
