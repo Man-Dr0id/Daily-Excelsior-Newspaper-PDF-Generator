@@ -3,16 +3,16 @@ Daily-Excelsior-Newspaper-PDF-Generator is a python based application which uses
 
 Modules Used Include :
 ```
-*PyPDF2
-*requests
-*datetime
-*android
-*pillow
-*bs4
-*fnmatch
-*glob
-*threading
-*tinkinter
+*PyPDF2*
+*requests*
+*datetime*
+*android*
+*pillow*
+*bs4*
+*fnmatch*
+*glob*
+*threading*
+*tinkinter*
 ```
 
 Initial GUI of the application
