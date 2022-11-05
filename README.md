@@ -1,5 +1,5 @@
 # Daily-Excelsior-PDF-Downloader
-Daily-Excelsior-Newspaper-PDF-Generator is a python based application which uses a Tkinter Gui and helps user to fetch a full pdf of a newspaper through the Daily Excelsior Website.
+Daily Excelsior Newspaper PDF Generator is a python based application which uses a Tkinter Gui and helps user to fetch a full pdf of a newspaper through the Daily Excelsior Website.
 
 Modules Used Include :
 ```
